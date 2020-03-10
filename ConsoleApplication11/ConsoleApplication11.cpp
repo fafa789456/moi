@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello fffffffffffffffff!\n";
+    std::cout << "Hello fffffffffffffffffhhhhhhhhhhhhhhhhhhhhhhhhh!\n";
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
